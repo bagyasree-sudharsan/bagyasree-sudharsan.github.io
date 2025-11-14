@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -448,13 +441,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-bluesky',
-        title: 'Bluesky',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://bsky.app/profile/bagyasree.bsky.social", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -462,11 +448,11 @@ ninja.data = [{
           window.open("mailto:%62%61%67%79%61%73%72%65%65.%73%75%64%68%61%72%73%61%6E@%63%6F%6C%6F%72%61%64%6F.%65%64%75", "_blank");
         },
       },{
-        id: 'social-goodreads_url',
-        title: 'Goodreads_url',
+        id: 'social-bluesky',
+        title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://bsky.app/profile/bagyasree.bsky.social", "_blank");
         },
       },{
         id: 'social-linkedin',
