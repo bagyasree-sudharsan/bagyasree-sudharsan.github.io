@@ -1,14 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Lato:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&display=swap');
 
-body {
+body, h1, h2, h3, h4, h5, h6, .contact-note {
   font-family: 'Playfair Display', serif !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Playfair Display', serif !important;
+.social {
+  margin: 0rem 0rem !important;
+  padding: 0rem 0rem !important;
 }
 
-.landing-social {
-  font-size: 0.5rem;
+.coloured_text {
+  color: var(--global-theme-color);
 }
