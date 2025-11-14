@@ -3,6 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: Bagyasree Sudharsan # the website title (if blank, full name will be used instead)
+welcome_title: Hi! I'm Bagyasree. # the welcome title on the landing page (if blank, full name will be used instead)
 first_name: Bagyasree
 middle_name:
 last_name: Sudharsan
@@ -20,7 +21,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 # icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 icon: BS.png
 
-url: https://bagyasree.sudharsan.github.io # the base hostname & protocol for your site
+url: https://bagyasree-sudharsan.github.io # the base hostname & protocol for your site
 baseurl: #/al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -199,7 +200,7 @@ exclude:
   - _pages/profiles.md
   - _pages/projects.md
   - _pages/teaching.md
-  - _pages/cv.md
+  # - _pages/cv.md
   - _pages/dropdown.md
 keep_files:
   - CNAME
@@ -273,8 +274,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Sudharsan]
+  first_name: [Bagyasree, B.]
 
   style: apa
   locale: en
@@ -294,7 +295,7 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
+  group_by: none
   group_order: descending
 
 # Display different badges withs stats for your publications
@@ -322,6 +323,7 @@ filtered_bibtex_keywords:
     google_scholar_id,
     html,
     inspirehep_id,
+    page_section,
     pdf,
     poster,
     preview,
@@ -333,11 +335,11 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3 # leave blank to always show all authors
+max_author_limit:  # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
-enable_publication_thumbnails: true
+enable_publication_thumbnails: false
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
