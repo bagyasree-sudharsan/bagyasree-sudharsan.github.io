@@ -19,6 +19,9 @@
           {% else %}
             {{- site.title -}}
           {% endif %}
+          {% if site.pronunciation %}
+          ({{ site.pronunciation }})
+          {% endif %}
         </a>
        
       {% if site.enable_navbar_social %}

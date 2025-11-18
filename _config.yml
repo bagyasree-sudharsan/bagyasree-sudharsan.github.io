@@ -4,6 +4,7 @@
 
 title: Bagyasree Sudharsan # the website title (if blank, full name will be used instead)
 welcome_title: Hi! I'm Bagyasree. # the welcome title on the landing page (if blank, full name will be used instead)
+pronunciation: /ˈbɑːɡjəʃriː/ # pronunciation of your name using IPA notation (if blank, no pronunciation will be shown)
 first_name: Bagyasree
 middle_name:
 last_name: Sudharsan
