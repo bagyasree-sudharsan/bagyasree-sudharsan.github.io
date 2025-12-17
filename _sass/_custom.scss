@@ -13,3 +13,13 @@ body, h1, h2, h3, h4, h5, h6, .contact-note {
 .coloured_text {
   color: var(--global-theme-color);
 }
+
+/* Reduce spacing between paragraph and following list */
+p:has(+ ul),
+p:has(+ ol) {
+  margin-bottom: 0.1rem !important;
+}
+
+strong, b {
+  font-weight: 700;
+}

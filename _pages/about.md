@@ -24,20 +24,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
-
 My overall aim is to conduct research to improve language models' social and moral intelligence, and thus make them better at and safer for complex interactive tasks like teaching and psychological interventions. To this end, I'm particularly interested in:
 1. Helping LMs reason about implicit human behaviour and language, and aligning them with pluralistic human values. 
-2. Integrating ideas from linguistics and cognitive science, as well as findings from social simulations, with traditional NLP pre- and post-training methods. 
+2. Integrating ideas from linguistics and cognitive science, as well as findings from social simulations, with traditional NLP pre- and post-training methods to achieve the above.
 3. Exploring how these ideas can be used to make models generalizable across social domains. 
 
 
-I recently graduated with a Master's in Computer Science from CU Boulder, where I was part of the [BLAST lab](https://blast-cu.github.io/) led by [Dr. Maria Pacheco](https://blast-cu.github.io/mlpacheco/). I've worked on [several cool AI projects](https://drive.google.com/file/d/10CjYX93rFRA03q04vEauFtl9evuk6GOf/view) since I started studying CS — I'm looking for related research opportunities!
+I recently graduated with a Master's in Computer Science from CU Boulder, where I was part of the [BLAST lab](https://blast-cu.github.io/) led by [Dr. Maria Pacheco](https://blast-cu.github.io/mlpacheco/). I got my undergraduate degree from PES University, Bengaluru. I've worked on [several cool AI projects](https://drive.google.com/file/d/10CjYX93rFRA03q04vEauFtl9evuk6GOf/view) since I started studying CS — **I'm looking for related research opportunities!**
 
 <!-- I've also done projects on [mention keywords with links to preprints maybe?] -->
 
-I love books and stories; I think fiction is our richest source of information about the human condition, and one of the best ways to develop empathy for the world. Plus, they're fun! Sometimes I post reviews about the books I've read on [Goodreads](https://www.goodreads.com/bagyasree) ([my current obsession](https://www.brandonsanderson.com/pages/what-is-the-cosmere)). I'm also a bit of a crossword nerd, particularly [cryptics](https://en.wikipedia.org/wiki/Cryptic_crossword). 
-
-<!-- I'm broadly interested in exploring methods to make NLP models generalizable and transferable across domains, particularly for applications that involve social reasoning and .  -->
+I love books and stories; I think fiction is our richest source of information about the human condition, and one of the best ways to develop empathy for the world. Plus, they're fun ([my current obsession](https://www.brandonsanderson.com/pages/what-is-the-cosmere))!  Sometimes I post reviews about the books I've read on [Goodreads](https://www.goodreads.com/bagyasree). I'm also a bit of a crossword nerd, especially [cryptics](https://en.wikipedia.org/wiki/Cryptic_crossword). 
