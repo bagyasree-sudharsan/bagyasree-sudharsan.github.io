@@ -26,12 +26,14 @@ latest_posts:
 
 My overall aim is to conduct research to improve language models' social and moral intelligence, and thus make them better at and safer for complex interactive tasks like teaching and psychological interventions. To this end, I'm particularly interested in:
 1. Helping LMs reason about implicit human behaviour and language, and aligning them with pluralistic human values. 
-<!-- 2. Defining realistic and model-friendly specifications, benchmarks, and measures for these values. -->
-2. Integrating ideas from linguistics and cognitive science, as well as findings from social simulations, with traditional NLP pre- and post-training methods to achieve the above.
-3. Exploring how these ideas can be used to make models generalizable across social domains. 
+2. Defining realistic and model-friendly specifications, benchmarks, and measures for these values.
+3. Integrating ideas from linguistics, cognitive science, and philosophy, as well as findings from social simulations, with traditional NLP pre- and post-training methods to achieve the above.
+4. Exploring how these ideas can be used to make models generalizable across social domains. 
 
 
-I recently graduated with a Master's in Computer Science from CU Boulder, where I was part of the [BLAST lab](https://blast-cu.github.io/) led by [Dr. Maria Pacheco](https://blast-cu.github.io/mlpacheco/). I got my undergraduate degree from PES University, Bengaluru. I've worked on [several cool AI projects](https://drive.google.com/file/d/10CjYX93rFRA03q04vEauFtl9evuk6GOf/view) since I started studying CS — **I'm looking for related research opportunities!**
+<!-- I am currently interning with the ML R&D team at [Vectara](), where I'm optimizing the efficiency of agentic evaluation suites, tying user satisfaction signals to evaluation outcomes, and making technically rigorous evaluations user-friendly and digestible. As a [SPAR] Research Fellow, I'm also exploring how agents inadvertently erode human autonomy. -->
+
+I graduated with a Master's in Computer Science from CU Boulder in December 2025, where I was part of the [BLAST lab](https://blast-cu.github.io/) led by [Dr. Maria Pacheco](https://blast-cu.github.io/mlpacheco/), working on computational social science. I've also worked with [Dr. Alvaro Velasquez](https://www.colorado.edu/cs/alvaro-velasquez) to explore sycophancy in large language models. I got my undergraduate degree from PES University, Bengaluru. I've worked on [several cool AI projects](https://drive.google.com/file/d/10CjYX93rFRA03q04vEauFtl9evuk6GOf/view) since I started studying CS — **I'm looking for PhD positions, to start in 2027!**
 
 <!-- I've also done projects on [mention keywords with links to preprints maybe?] -->
 
