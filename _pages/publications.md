@@ -7,11 +7,11 @@ nav: true
 nav_order: 2
 ---
 
-#### **Preprints**
+<!-- #### **Preprints**
 <div class="publications">
 {% bibliography --query @*[page_section~=preprints] %}
 </div>
----
+--- -->
 
 #### **Publications**
 <div class="publications">
