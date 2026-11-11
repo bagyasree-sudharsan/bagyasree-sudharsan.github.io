@@ -24,11 +24,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My overall aim is to conduct research to improve language models' social and moral intelligence, and thus make them better at and safer for complex interactive tasks like teaching and psychological interventions. To this end, I'm particularly interested in:
+My overall aim is to conduct research to improve language models' social and moral intelligence, and thus make them better at and safer for complex interactive tasks like teaching and psychological interventions. To this end, I particularly want to:
+1. Identify and explore implicit social constructs that affect learning, interpersonal relationships, and mental well-being;
+2. Define realistic and model-friendly operationalizations and benchmarks for these constructs in the context of human-LLM interaction;
+3. Use these constructs to measure LLM behaviours and their effects on human behaviours;
+4. Develop methods to change LLM behaviours in accordance with the previous measurements. 
+
+I'm interested in integrating ideas from linguistics, cognitive science, and philosophy, as well as findings from social simulations, to inform my measurements and methods. I also believe that the social intelligence we encode, and therefore the measurements that inform them, must be representative of a diverse set of beliefs, cultures, and personalities.
+
+<!-- To this end, I'm particularly interested in:
 1. Helping LMs reason about implicit human behaviour and language, and aligning them with pluralistic human values. 
 2. Defining realistic and model-friendly specifications, benchmarks, and measures for these values.
 3. Integrating ideas from linguistics, cognitive science, and philosophy, as well as findings from social simulations, with traditional NLP pre- and post-training methods to achieve the above.
-4. Exploring how these ideas can be used to make models generalizable across social domains. 
+4. Exploring how these ideas can be used to make models generalizable across social domains.  -->
 
 
 <!-- I am currently interning with the ML R&D team at [Vectara](), where I'm optimizing the efficiency of agentic evaluation suites, tying user satisfaction signals to evaluation outcomes, and making technically rigorous evaluations user-friendly and digestible. As a [SPAR] Research Fellow, I'm also exploring how agents inadvertently erode human autonomy. -->
@@ -37,4 +45,6 @@ I am currently interning with the ML R&D team at [Vectara](https://www.vectara.c
 
 <!-- I've also done projects on [mention keywords with links to preprints maybe?] -->
 
-I love books and stories; I think fiction is our richest source of information about the human condition, and one of the best ways to develop empathy for the world. Plus, they're fun! I'm currently obsessed with all things [Cosmere](https://www.brandonsanderson.com/pages/what-is-the-cosmere). Sometimes I post reviews about the books I've read on [Goodreads](https://www.goodreads.com/bagyasree). I'm also a bit of a crossword nerd, especially [cryptics](https://en.wikipedia.org/wiki/Cryptic_crossword). 
+I love books and stories; I think fiction is our richest source of information about the human condition, and one of the best ways to develop empathy for the world. Plus, they're fun! A very long-term goal of mine is to write one of my own. I'm currently obsessed with all things [Cosmere](https://www.brandonsanderson.com/pages/what-is-the-cosmere). Sometimes I post reviews about the books I've read on [Goodreads](https://www.goodreads.com/bagyasree). I'm also a bit of a crossword nerd (which I recently learnt is called being a cruciverbalist), especially [cryptics](https://en.wikipedia.org/wiki/Cryptic_crossword).
+
+<!-- which my friend Nimisha told me is called being a cruciverbalist -->
