@@ -1,8 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Lato:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&display=swap');
 
-body, h1, h2, h3, h4, h5, h6, .contact-note {
-  font-family: 'Playfair Display', serif !important;
+body, .contact-note {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 1.6;
+}
+
+@media (max-width: 767px) {
+  body, .contact-note {
+    font-size: 18px;
+    line-height: 1.65;
+  }
+}
+
+h1, h2, h3, h4, h5, h6, .post-title, .navbar-brand, .title {
+  font-family: 'Playfair Display', Georgia, serif !important;
+  font-weight: 600 !important;
+  line-height: 1.25 !important;
+}
+
+.post-title, .navbar-brand {
+  font-weight: 400 !important;
 }
 
 .social {
@@ -22,4 +43,9 @@ p:has(+ ol) {
 
 strong, b {
   font-weight: 700;
+}
+
+/* Cormorant has no weight above 700, so thicken prose bold with a thin stroke */
+article p strong, article p b, article li strong, article li b {
+  -webkit-text-stroke: 0.5px currentColor;
 }
